@@ -1,8 +1,8 @@
 class Gron < Formula
   desc "Make JSON greppable"
   homepage "https://github.com/vyrus001/gron"
-  url "https://github.com/vyrus001/gron/releases/download/v0.8.0/gron-0.8.0.tar.gz"
-  sha256 "f72cda1b011c5f3bf8ed563097ba291e4b63210af5f8f0182bdce02f46af6e99"
+  url "https://github.com/vyrus001/gron/releases/download/v0.8.1/gron-0.8.1.tar.gz"
+  sha256 "bf1864f83789a84078c24c154e94f29fdbd2f6eb6d51fc2a89771cd52407340b"
   license "MIT"
 
   depends_on "go" => :build
